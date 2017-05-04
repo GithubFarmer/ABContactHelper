@@ -6,3 +6,5 @@ Use this one instead: <a href="https://github.com/erica/iOS-6-Advanced-Cookbook/
 
 Thanks
 
+转载他人的项目，已供自己学习。
+
